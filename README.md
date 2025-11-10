@@ -36,7 +36,7 @@ The dataset contains transactional and demographic details of bank customers.
 - Age distribution peaks between **30–40 years**  
 - Top cities: **Mumbai, Bangalore, Delhi**
 
-  "![Customer Demographics]("C:\Users\Vinutha Ravula\OneDrive\Pictures\Screenshots\Screenshot 2025-11-10 145825.png")
+  ![Customer Demographics]("C:\Users\Vinutha Ravula\OneDrive\Pictures\Screenshots\Screenshot 2025-11-10 145825.png")
 ---
 
 ### 2️⃣ Transaction Behavior Insights

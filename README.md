@@ -36,8 +36,8 @@ The dataset contains transactional and demographic details of bank customers.
 - Age distribution peaks between **30–40 years**  
 - Top cities: **Mumbai, Bangalore, Delhi**
 
-  ("<img width="1240" height="693" alt="Screenshot 2025-11-10 145825" src="https://github.com/user-attachments/assets/105b39c9-146a-4f4b-a3b4-de9cee3dfe55" />
-")
+  <img width="1240" height="693" alt="Screenshot 2025-11-10 145825" src="https://github.com/user-attachments/assets/105b39c9-146a-4f4b-a3b4-de9cee3dfe55" />
+  
 ---
 
 ### 2️⃣ Transaction Behavior Insights-1
@@ -48,8 +48,8 @@ The dataset contains transactional and demographic details of bank customers.
 - Transaction volume declines from **August to October**  
 - Peak activity observed during **mid-day hours**
 - 
-(<img width="1016" height="571" alt="Screenshot 2025-10-17 120540" src="https://github.com/user-attachments/assets/12a82a90-d932-4a62-ad32-a44dd30fa9d1" />
-)
+<img width="1016" height="571" alt="Screenshot 2025-10-17 120540" src="https://github.com/user-attachments/assets/12a82a90-d932-4a62-ad32-a44dd30fa9d1" />
+
 ---
 
 ### 3️⃣ Transaction Behavior Insights-2
@@ -60,8 +60,8 @@ The dataset contains transactional and demographic details of bank customers.
 ds highest balances  
 - Weekday transaction patterns vary by gender
   
-  (<img width="1016" height="571" alt="Screenshot 2025-10-17 120540" src="https://github.com/user-attachments/assets/b0091810-71d9-4c1a-80e6-5b927fa1244d" />
-)
+  <img width="1016" height="571" alt="Screenshot 2025-10-17 120540" src="https://github.com/user-attachments/assets/b0091810-71d9-4c1a-80e6-5b927fa1244d" />
+
 
 ---
 
